@@ -1,0 +1,41 @@
+body {
+  font-size: 20px;
+  margin: 300px 200px 200px 200px;
+  height: 100vh;
+}
+h1 {
+  font-size: xx-large;
+  max-width: 50%;
+}
+
+.p-left {
+  max-width: 50%;
+}
+
+section {
+  display: flex;
+}
+
+.left {
+  width: 50%;
+}
+
+.stars1 {
+  background-color: hsl(300, 24%, 96%);
+  padding: 20px 0px 20px 40px;
+  margin-top: 20px;
+  max-width: 350px;
+}
+.stars2 {
+  background-color: hsl(300, 24%, 96%);
+  padding: 20px 30px 20px 40px;
+  margin-top: 20px;
+  margin-left: 80px;
+  max-width: 350px;
+}
+.stars3 {
+  background-color: hsl(300, 24%, 96%);
+  padding: 20px 50px;
+  margin-top: 20px;
+  margin-left: 150px;
+}
